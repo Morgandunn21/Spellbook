@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e28142d90a9c114190f529d337fc4fa, type: 3}
+  m_Name: Fire Ball Desription
+  m_EditorClassIdentifier: 
+  castingPoint: 2
+  spellName: Fire Ball
+  spellDesc: Creates a Fiery explosion at the point aimed at
+  spellSymbol: {fileID: 21300000, guid: 2d0997ac1b1fd664e98202450e7ea2d7, type: 3}
+  ammoColor: {r: 1, g: 0.35096756, b: 0, a: 1}
+  sequence: 01000000020000000400000005000000
+  continuous: 0
+  ammoCount: 5
+  spellPrefab: {fileID: 7682949629609064246, guid: 416b31ba85c93e742b37ee6c0c49de7a,
+    type: 3}

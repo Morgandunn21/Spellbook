@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e28142d90a9c114190f529d337fc4fa, type: 3}
+  m_Name: Earthquake Description
+  m_EditorClassIdentifier: 
+  castingPoint: 1
+  spellName: Earthquake
+  spellDesc: Rupture the ground around you, slowing and damaging nearby enemies
+  spellSymbol: {fileID: 21300000, guid: 8b03ad0628d8cec43a17e35fbc3086e4, type: 3}
+  ammoColor: {r: 0.7924528, g: 0.48313898, b: 0, a: 1}
+  sequence: 00000000020000000300000004000000
+  continuous: 1
+  ammoCount: 6
+  spellPrefab: {fileID: 6131247838006847429, guid: a7d989b518eb05440b4446b0e623faa1,
+    type: 3}

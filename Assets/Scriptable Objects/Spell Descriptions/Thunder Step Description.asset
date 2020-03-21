@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e28142d90a9c114190f529d337fc4fa, type: 3}
+  m_Name: Thunder Step Description
+  m_EditorClassIdentifier: 
+  castingPoint: 1
+  spellName: Thunder Step
+  spellDesc: Teleport forward with a blast of thunderous energy, damaging enemies
+    where you appear
+  spellSymbol: {fileID: 21300000, guid: b4cf912984d2aba4aae84f325f018142, type: 3}
+  ammoColor: {r: 0, g: 0.89388084, b: 1, a: 1}
+  sequence: 000000000100000005000000
+  continuous: 0
+  ammoCount: 4
+  spellPrefab: {fileID: 0}
